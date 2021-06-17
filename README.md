@@ -1,5 +1,12 @@
 # Snowboy Hotword Detection
 
+> # Warmming:
+> This repo is not the latest!!!
+
+> We use gitee instad of github for this repo.
+
+> New repo:https://gitee.com/kkstudio2019/snowboy
+
 Forked from https://github.com/Kitt-AI/snowboy
 
 Original Version: 1.3.0 (2/19/2018)
