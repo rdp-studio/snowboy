@@ -417,8 +417,13 @@ You are probably using an old version of SWIG. Please upgrade. We have tested wi
 
 See [Full Documentation](http://docs.kitt.ai/snowboy).
 
+## Change Log (Fork)
 
-## Change Log
+**v1.0.0, 6/17/2021**
+
+* Added Training script
+
+## Change Log (Original)
 
 **v1.3.0, 2/19/2018**
 
