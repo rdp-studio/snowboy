@@ -2,9 +2,11 @@
 
 Forked from https://github.com/Kitt-AI/snowboy
 
-Version: 1.3.0 (2/19/2018)
+Original Version: 1.3.0 (2/19/2018)
 
-Please contact info@seasalt.ai if you would like to reach out to us.
+Fork Version: 1.0.0 (6/17/2021)
+
+Please contact admin@rdpstudio.top if you would like to reach out to us.
 
 ## New: build your own personal models (Ubuntu 16.04 and macOS)
 * Install dependencies
